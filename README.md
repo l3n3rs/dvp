@@ -37,5 +37,3 @@ siehe unten bei Branches
 ## 4. Zeitreisen
 
 ## 5. Branches
-
-<img width="931" height="373" alt="grafik" src="https://github.com/user-attachments/assets/4e3a3121-2a85-43b3-b5cc-3bf6219bc51b" />
