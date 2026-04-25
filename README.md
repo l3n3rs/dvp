@@ -29,6 +29,7 @@ siehe unten bei Branches
 ### diff
 
 ### status
+<img width="599" height="137" alt="grafik" src="https://github.com/user-attachments/assets/b901e992-3b17-455e-9cf5-19f306b6efaa" />
 
 ### rm
 
