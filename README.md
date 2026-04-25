@@ -16,12 +16,15 @@ Noch work in progress - kommt mit den kommenden Abgaben
 
 ## 3. Methoden testen
 ### push
+siehe unten bei Branches
 
 ### pull
 
 ### add
+<img width="616" height="51" alt="grafik" src="https://github.com/user-attachments/assets/a2c914a3-e742-46db-af85-5630fc211262" />
 
 ### commit
+<img width="682" height="74" alt="grafik" src="https://github.com/user-attachments/assets/e793245f-4352-49fb-a52d-8b06fc031d03" />
 
 ### diff
 
@@ -34,3 +37,5 @@ Noch work in progress - kommt mit den kommenden Abgaben
 ## 4. Zeitreisen
 
 ## 5. Branches
+
+<img width="931" height="373" alt="grafik" src="https://github.com/user-attachments/assets/4e3a3121-2a85-43b3-b5cc-3bf6219bc51b" />
