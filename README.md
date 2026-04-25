@@ -19,6 +19,7 @@ Noch work in progress - kommt mit den kommenden Abgaben
 siehe unten bei Branches
 
 ### pull
+<img width="622" height="221" alt="grafik" src="https://github.com/user-attachments/assets/02421ab0-2e8e-47e6-8f3b-fd92039358be" />
 
 ### add
 <img width="616" height="51" alt="grafik" src="https://github.com/user-attachments/assets/a2c914a3-e742-46db-af85-5630fc211262" />
