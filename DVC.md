@@ -4,7 +4,7 @@
 siehe hier
 
 ## 2. Push eigenes Projekt
-Noch work in progress - kommt mit den kommenden Abgaben
+Noch work in progress - kommt mit den kommenden Abgaben. Siehe jetzt z.B. Beginn für die Aufgabe Vibe Coding.
 
 ## 3. Methoden testen
 ### push
