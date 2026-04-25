@@ -64,4 +64,6 @@ Konflikt auflösen
 
 <img width="613" height="141" alt="grafik" src="https://github.com/user-attachments/assets/2d24fad2-cd31-4663-98ee-f23c99f156cd" />
 
+## 6. Pull-Request bezugnehmend auf https://github.com/edlich/education
+[[https://github.com/edlich/education/pull/575](https://github.com/edlich/education/pull/575)]
 
