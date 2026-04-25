@@ -55,3 +55,13 @@ Beispiel: Push Branch B
 
 Erstellte Branches
 <img width="931" height="655" alt="grafik" src="https://github.com/user-attachments/assets/823dad47-6174-492b-a762-ef7810518692" />
+
+Merge mit Merge-Konflikt
+<img width="926" height="819" alt="grafik" src="https://github.com/user-attachments/assets/e5567888-4bc0-4e79-8a23-5cc88e3b1689" />
+
+Konflikt auflösen
+<img width="742" height="137" alt="grafik" src="https://github.com/user-attachments/assets/4f06e4cb-757c-4956-a06c-3168c8ab339e" />
+
+<img width="613" height="141" alt="grafik" src="https://github.com/user-attachments/assets/2d24fad2-cd31-4663-98ee-f23c99f156cd" />
+
+
